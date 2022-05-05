@@ -1,4 +1,4 @@
-package com.github.leetcode.StringToInteger;
+package com.github.leetcode.StringToInteger_008;
 
 public class StringToIntegerSolution {
     public int myAtoi(String s) {
